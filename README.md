@@ -1,1 +1,8 @@
-AKTU B.Tech IT 24 Batch 5th Semester Subject Machine Learning Techniques(KCS055)
+## Dr. A.P.J. Abdul Kalam Technical University Uttar Pradesh
+## B.Tech in Information Technology
+## 2024 Batch
+## Semester V
+## Machine Learning Techniques(KCS055)
+
+
+ 
