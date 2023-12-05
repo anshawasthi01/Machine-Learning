@@ -3,6 +3,4 @@
 ## 2024 Batch
 ## Semester V
 ## Machine Learning Techniques(KCS055)
-
-
  
